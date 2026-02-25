@@ -1,0 +1,1 @@
+Frontend é a "cara" da aplicação. É tudo aquilo com que o usuário interage diretamente: botões, menus, cores e fontes. As tecnologias base são HTML, CSS e JavaScript.

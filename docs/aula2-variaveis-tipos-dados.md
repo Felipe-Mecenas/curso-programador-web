@@ -1,0 +1,1 @@
+Variáveis são espaços na memória do computador usados para armazenar dados que podem variar durante a execução de um programa. Os principais tipos são: int (inteiros), float (decimais), string (texto) e boolean (verdadeiro ou falso).

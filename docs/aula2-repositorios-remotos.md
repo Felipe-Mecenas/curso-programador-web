@@ -1,0 +1,1 @@
+São versões do seu projeto hospedadas em servidores na internet, como o GitHub. Eles servem para backup seguro e para permitir que várias pessoas trabalhem no mesmo código simultaneamente.
